@@ -1,6 +1,7 @@
-- Streamer and former caster
+- Streamer and former e-sport caster
 - C, Python, HTML/CSS and Java developer
 - Learning C++ and C#
+- Unreal Engine 5 user
 - Co-Founder of the @realRCorp
 - Contact me at contactrowuni@gmail.com
 
