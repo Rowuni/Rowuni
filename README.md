@@ -33,6 +33,7 @@
 
 ### Tools & Engines
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
