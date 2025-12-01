@@ -14,7 +14,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-FFA500?style=flat-square&logoColor=white)
+![VHDL](https://img.shields.io/badge/-VHDL-FFA500?style=flat-square&logo=vhdl&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Batch](https://img.shields.io/badge/-Batch-4B4B4B?style=flat-square&logo=windows&logoColor=white)
 
