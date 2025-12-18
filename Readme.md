@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## About Me
 
 - 🎬 **Streamer** and former **e-sport caster**
@@ -5,6 +9,22 @@
 - 📚 **Currently learning**: C++ and C#
 - 🎯 **Unreal Engine 5** user
 
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📊 Most Used Languages
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowuni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Tech Stack
 
@@ -151,12 +171,6 @@
 
 <div align="center">
 
-### � Overview
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowuni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
 ### 📈 Activity Analysis
 
 <p align="center">
@@ -169,11 +183,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rowuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats"/>
 </p>
 
-### 📅 Contribution Details
+### 🏆 Achievements & Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rowuni&theme=tokyonight&hide_border=true&background=0D1117" width="400" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rowuni&theme=tokyonight" width="400" alt="GitHub Stats Summary"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rowuni&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="400" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rowuni&theme=tokyonight&hide_border=true&background=0D1117&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" width="400" alt="GitHub Streak"/>
 </p>
 
 </div>
