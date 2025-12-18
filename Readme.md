@@ -5,11 +5,8 @@
 - 📚 **Currently learning**: C++ and C#
 - 🎯 **Unreal Engine 5** user
 
----
 
 ## Tech Stack
-
-### Languages
 
 <table align="center">
 <tr>
@@ -52,8 +49,6 @@
 </tr>
 </table>
 
-### Tools, DevOps & Databases
-
 <table align="center">
 <tr>
     <td align="center" width="96">
@@ -95,8 +90,6 @@
 </tr>
 </table>
 
-### Frameworks & Libraries
-
 <table align="center">
 <tr>
     <td align="center" width="96">
@@ -126,8 +119,6 @@
 </tr>
 </table>
 
-
-### Game Development & Creative tools
 
 <table align="center">
 <tr>
@@ -160,17 +151,29 @@
 
 <div align="center">
 
-### 📈 Languages & Activity
+### � Overview
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowuni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rowuni&theme=tokyonight&utcOffset=1" width="400"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowuni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
 
-### 📊 Detailed Breakdown
+### 📈 Activity Analysis
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rowuni&theme=tokyonight" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rowuni&theme=tokyonight" width="400"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rowuni&theme=tokyonight" width="400" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rowuni&theme=tokyonight" width="400" alt="Most Commit Language"/>
+</p>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rowuni&theme=monokai)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rowuni&theme=tokyonight&utcOffset=1" width="400" alt="Productive Time"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rowuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats"/>
+</p>
+
+### 📅 Contribution Timeline
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rowuni&theme=tokyonight" alt="Profile Details"/>
+</p>
 
 </div>
 
