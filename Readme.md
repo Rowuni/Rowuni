@@ -169,10 +169,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rowuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats"/>
 </p>
 
-### 📅 Contribution Timeline
+### 📅 Contribution Details
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rowuni&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rowuni&theme=tokyonight&hide_border=true&background=0D1117" width="400" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rowuni&theme=tokyonight" width="400" alt="GitHub Stats Summary"/>
 </p>
 
 </div>
