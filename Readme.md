@@ -1,28 +1,21 @@
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
+
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowuni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 ## About Me
+
+<div align="left">
 
 - 🎬 **Streamer** and former **e-sport caster**
 - 💻 **Developer** specializing in Python, HTML/CSS, C and Java
 - 📚 **Currently learning**: C++ and C#
 - 🎯 **Unreal Engine 5** user
 
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowuni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
 
 </div>
 
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 ---
 
