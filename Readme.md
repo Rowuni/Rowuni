@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## About Me
 
@@ -10,9 +10,10 @@
 - 🎯 **Unreal Engine 5** user
 
 </td>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 
 <div align="center">
+
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowuni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
@@ -64,42 +65,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" />
         <br>Markdown
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-        <br>SQLite
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="Matlab" />
-        <br>MATLAB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-        <br>Notion
     </td>
 </tr>
 </table>
