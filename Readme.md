@@ -192,14 +192,16 @@
 ```mermaid
 gantt
     section School projects
-    Mastercamp project (Repo Hurry)       :done, 2025-06, 2025-07
+    Mastercamp project (Repo Hurry)       :done, 2025-05, 2025-07
     Cookie Clicker         :done, 2025-09, 2025-10
     Side Scroller Game       :done, 2023-02, 2023-05
+    Tetris in Python       :done, 2022-10, 2022-12
+    Green IT Website       :done, 2025-04, 2025-05
     dateFormat  YYYY-MM
     section Professional experiences and projects
     Software Developer           :active, 2025-11, 2026-04
     section Personnal projects
-    First Leaderboard       :active, 2025-09
+    First Leaderboard       :active, 2025-09, 2026-09
 ```
 
 ---
