@@ -188,6 +188,11 @@ gantt
     Side Scroller Game       :done, 2023-02, 2023-05
     Tetris in Python       :done, 2022-10, 2022-12
     Green IT Website       :done, 2025-04, 2025-05
+    R-Run (Dino Game like)       :done, 2022-02, 2022-05
+    Wine Quality Analysis       :done, 2024-11, 2024-12
+    Hotel Booking System       :done, 2024-10, 2024-12
+    Movie Search App       :done, 2025-09, 2025-10
+    VR House Tour (Unreal Engine)       :done, 2025-02, 2025-05
     dateFormat  YYYY-MM
     section Professional experiences and projects
     Software Developer           :active, 2025-11, 2026-04
