@@ -187,11 +187,10 @@
 
 ---
 
-## 📚 Learning Roadmap
+## 📚 Projects and experiences Roadmap
 
 ```mermaid
 gantt
-    title
     section School projects
     Mastercamp project (Repo Hurry)       :done, 2025-06, 2025-07
     Cookie Clicker         :done, 2025-09, 2025-10
