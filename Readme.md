@@ -192,7 +192,9 @@ gantt
     Wine Quality Analysis       :done, 2024-11, 2024-12
     Hotel Booking System       :done, 2024-10, 2024-12
     Movie Search App       :done, 2025-09, 2025-10
+    Calendar App in C      :done, 2023-10, 2023-12
     VR House Tour (Unreal Engine)       :done, 2025-02, 2025-05
+    Shape Creator in C       :done, 2023-05, 2023-06
     dateFormat  YYYY-MM
     section Professional experiences and projects
     Software Developer           :active, 2025-11, 2026-04
