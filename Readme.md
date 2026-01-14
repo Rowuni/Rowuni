@@ -1,6 +1,4 @@
-<div align="center">
-
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowuni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<div align="left">
 
 ## About Me
 
@@ -176,13 +174,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rowuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats"/>
 </p>
 
-### 🏆 Achievements & Streaks
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rowuni&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="400" alt="GitHub Trophies"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rowuni&theme=tokyonight&hide_border=true&background=0D1117&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" width="400" alt="GitHub Streak"/>
-</p>
-
 </div>
 
 ---
@@ -212,10 +203,9 @@ gantt
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contactrowuni@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rowuni)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votreprofil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votrecompte)
-[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/votrecompte)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@votrecompte)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rowuni_)
+[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/Rowuni)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rowuni)
 
 </div>
 
@@ -240,10 +230,3 @@ gantt
 
 
 
-
-
-
-
-Modifier parcours pour avoir genre parcours scolaire
-Parcours professionnel (expériences pro etc.)
-Parcours perso (projets personnels etc.)
