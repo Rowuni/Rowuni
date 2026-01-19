@@ -153,10 +153,12 @@
         <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
         <br>Photoshop
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aftereffects" width="48" height="48" alt="After Effects" />
+        <br>After Effects
+    </td>
 </tr>
 </table>
-
----
 
 ## GitHub Statistics
 
@@ -176,8 +178,6 @@
 
 </div>
 
----
-
 ## 📚 Projects and experiences Roadmap
 
 ```mermaid
@@ -195,6 +195,9 @@ gantt
     Calendar App in C      :done, 2023-10, 2023-12
     VR House Tour (Unreal Engine)       :done, 2025-02, 2025-05
     Shape Creator in C       :done, 2023-05, 2023-06
+    Drone Simulation (Unreal Engine)       :done, 2023-11, 2024-02
+    Website for a fake video game company       :done, 2024-03, 2024-06
+    App for graph operations       :done, 2024-03, 2024-05
     dateFormat  YYYY-MM
     section Professional experiences and projects
     Software Developer           :active, 2025-11, 2026-04
