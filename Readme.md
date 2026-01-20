@@ -173,7 +173,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rowuni&theme=tokyonight&utcOffset=1" width="400" alt="Productive Time"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rowuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rowuni&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
 </p>
 
 </div>
@@ -205,10 +205,6 @@ gantt
     Drone Simulation (Unreal Engine)       :done, 2023-11, 2024-02
     Sponsors and infos overlay       :active, 2026-04, 2026-06
 ```
-
----
-
-## 📫 Let's Connect
 
 <div align="center">
 
