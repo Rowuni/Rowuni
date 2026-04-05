@@ -199,11 +199,11 @@ gantt
     App for graph operations       :done, 2024-03, 2024-05
     dateFormat  YYYY-MM
     section Professional experiences and projects
-    Software Developer           :active, 2025-11, 2026-04
+    Software Developer           :done, 2025-11, 2026-04
     section Personnal projects
     First Leaderboard       :active, 2025-09, 2026-09
     Drone Simulation (Unreal Engine)       :done, 2023-11, 2024-02
-    Sponsors and infos overlay       :active, 2026-04, 2026-06
+    Project Corp       :active, 2026-03, 2026-06
 ```
 
 ---
