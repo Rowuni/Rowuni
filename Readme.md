@@ -203,7 +203,7 @@ gantt
     section Personnal projects
     First Leaderboard       :active, 2025-09, 2026-09
     Drone Simulation (Unreal Engine)       :done, 2023-11, 2024-02
-    Project Corp       :active, 2026-03, 2026-06
+    Project Corp       :active, 2026-03, 2026-08
 ```
 
 ---
