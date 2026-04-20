@@ -5,10 +5,16 @@
 <div align="left">
 
 - 🎬 **Streamer** and former **e-sport caster**
-- 💻 **Developer** specializing in Python, HTML/CSS, C and Java
+- 💻 **Developer** specializing in Python
 - 🎓 **Student** at EFREI Paris, pursuing a Master's degree in Computer Science and Software Engineering 
 - 📚 **Currently learning**: C++ and C#
-- 🎯 **Unreal Engine 5** user
+- 🎯 **Unreal Engine 5** developer
+
+<br>
+
+**Worked previously for:**
+
+- **Visionairy** : as a software developer tasked with converting their AI computer vision application, originally designed for Linux, into a Windows/Linux-compatible application. Mostly used Python and Powershell.
 
 </div>
 
