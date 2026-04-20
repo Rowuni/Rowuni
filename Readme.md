@@ -14,7 +14,7 @@
 
 **Worked previously for:**
 
-- **Visionairy** : as a software developer tasked with converting their AI computer vision application, originally designed for Linux, into a Windows/Linux-compatible application. Mostly used Python and Powershell.
+- **Visionairy**: as a software developer tasked with converting their AI computer vision application, originally designed for Linux, into a Windows/Linux-compatible application. Mostly used Python and Powershell.
 
 </div>
 
