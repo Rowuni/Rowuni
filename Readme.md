@@ -14,7 +14,7 @@
 
 **Worked previously for:**
 
-- **Visionairy**: as a software developer tasked with converting their AI computer vision application, originally designed for Linux, into a Windows/Linux-compatible application. Mostly used Python and Powershell.
+- <a href="https://www.linkedin.com/company/visionairy"> Visionairy</a>: as a software developer tasked with converting their AI computer vision application, originally designed for Linux, into a Windows/Linux-compatible application. Mostly used Python and Powershell.
 
 </div>
 
@@ -207,7 +207,7 @@ gantt
     section Professional experiences and projects
     Software Developer           :done, 2025-11, 2026-04
     section Personnal projects
-    First Leaderboard       :active, 2025-09, 2026-09
+    First Leaderboard       :done, 2025-09, 2026-03
     Drone Simulation (Unreal Engine)       :done, 2023-11, 2024-02
     Project Corp       :active, 2026-03, 2026-08
 ```
