@@ -189,6 +189,7 @@
 ```mermaid
 gantt
     section School projects
+    Q-Ready        :active, 2026-04, 2026-07
     Mastercamp project (Repo Hurry)       :done, 2025-05, 2025-07
     Cookie Clicker         :done, 2025-09, 2025-10
     Side Scroller Game       :done, 2023-02, 2023-05
@@ -240,7 +241,7 @@ gantt
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 
-<sub> Last updated: April 2026  </sub>
+<sub> Last updated: May 2026  </sub>
 
 </div>
 
