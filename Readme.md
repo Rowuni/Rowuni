@@ -170,8 +170,6 @@
 
 <div align="center">
 
-### 📈 Activity Analysis
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rowuni&theme=tokyonight" width="400" alt="Repos per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rowuni&theme=tokyonight" width="400" alt="Most Commit Language"/>
