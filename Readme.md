@@ -211,9 +211,6 @@ gantt
     Project Corp       :active, 2026-03, 2026-08
 ```
 
----
-
-## 📫 Let's Connect
 
 <div align="center">
 
@@ -221,7 +218,6 @@ gantt
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rowuni)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rowuni_)
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/Rowuni)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rowuni)
 
 </div>
 
@@ -239,7 +235,7 @@ gantt
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 
-<sub> Last updated: May 2026  </sub>
+<sub> Last updated: May 2026 </sub>
 
 </div>
 
