@@ -166,7 +166,7 @@
 </tr>
 </table>
 
-## GitHub Statistics
+## GitHub Public Statistics
 
 <div align="center">
 
