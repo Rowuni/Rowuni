@@ -16,6 +16,9 @@
 
 - <a href="https://www.linkedin.com/company/visionairy"> Visionairy</a>: as a software developer tasked with converting their AI computer vision application, originally designed for Linux, into a Windows/Linux-compatible application. Mostly used Python and Powershell.
 
+** Working on:**
+
+- Q-Ready: Development of post-quantum-ready software for the analysis and migration of cryptographic assets. As the project lead, I organise the team’s tasks and manage the security of the codebase, whilst also working as a developer.
 </div>
 
 </div>
