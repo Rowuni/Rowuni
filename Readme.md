@@ -18,7 +18,7 @@
 
 **Working on:**
 
-- Q-Ready: Development of post-quantum-ready software for the analysis and migration of cryptographic assets. As the project lead, I organise the team’s tasks and manage the security of the codebase, whilst also working as a developer.
+- Q-Ready: Development of post-quantum-ready software for the analysis and migration of cryptographic assets. As the project lead, I organise the team’s tasks and manage the security of the codebase, whilst also working as a developer. Public version available <a href="https://github.com/Rowuni/Q-Ready-Public">here</a>
 </div>
 
 </div>
