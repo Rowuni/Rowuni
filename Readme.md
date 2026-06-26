@@ -211,7 +211,7 @@ gantt
     section Personnal projects
     Drone Simulation (Unreal Engine)       :done, 2023-11, 2024-02
     First Leaderboard       :done, 2025-09, 2026-03
-    Project Corp       :active, 2026-03, 2026-08
+    Project Corp       :done, 2026-03, 2026-06
 ```
 
 
@@ -238,6 +238,6 @@ gantt
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 
-<sub> Last updated: May 2026 </sub>
+<sub> Last updated: June 2026 </sub>
 
 </div>
