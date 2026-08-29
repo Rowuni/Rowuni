@@ -6,7 +6,7 @@
 
 - 🎬 **Streamer** and former **e-sport caster**
 - 💻 **Developer** specializing in Python
-- 🎓 **Student** at EFREI Paris, pursuing a Master's degree in Computer Science and Software Engineering 
+- 🎓 **Student** pursuing a Master's degree in Computer Science and Software Engineering 
 - 📚 **Currently learning**: C++ and C#
 - 🎯 **Unreal Engine 5** developer
 
