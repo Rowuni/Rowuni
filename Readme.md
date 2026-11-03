@@ -169,18 +169,18 @@
 </tr>
 </table>
 
-## GitHub Public Statistics
+## GitHub Statistics
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rowuni&theme=tokyonight" width="400" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rowuni&theme=tokyonight" width="400" alt="Most Commit Language"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="400" alt="Repos per Language"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="400" alt="Most Commit Language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rowuni&theme=tokyonight&utcOffset=1" width="400" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rowuni&theme=tokyonight" width="400" alt="GitHub Stats"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="400" alt="Productive Time"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="400" alt="GitHub Stats"/>
 </p>
 
 </div>
