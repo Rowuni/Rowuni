@@ -205,7 +205,7 @@ gantt
     Mastercamp project (Repo Hurry)       :done, 2025-05, 2025-07
     Cookie Clicker         :done, 2025-09, 2025-10
     Movie Search App       :done, 2025-09, 2025-10
-    Q-Ready        :active, 2026-04, 2026-07
+    Q-Ready        :active, 2026-04, 2027-03
     section Professional experiences and projects
     Software Developer           :done, 2025-11, 2026-04
     section Personnal projects
@@ -238,6 +238,6 @@ gantt
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 
-<sub> Last updated: June 2026 </sub>
+<sub> Last updated: November 2026 </sub>
 
 </div>
