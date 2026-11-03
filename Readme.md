@@ -180,7 +180,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rowuni&theme=tokyonight&utcOffset=1" width="400" alt="Productive Time"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rowuni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rowuni&theme=tokyonight" width="400" alt="GitHub Stats"/>
 </p>
 
 </div>
