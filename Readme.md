@@ -208,7 +208,7 @@ gantt
     Q-Ready        :active, 2026-04, 2027-03
     section Professional experiences and projects
     Software Developer           :done, 2025-11, 2026-04
-    section Personnal projects
+    section Personal projects
     Drone Simulation (Unreal Engine)       :done, 2023-11, 2024-02
     First Leaderboard       :done, 2025-09, 2026-03
     Project Corp       :done, 2026-03, 2026-06
