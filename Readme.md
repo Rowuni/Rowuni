@@ -4,8 +4,8 @@
 
 <div align="left">
 
+- 💻 **Software Developer** specializing in Python
 - 🎬 **Streamer** and former **e-sport caster**
-- 💻 **Developer** specializing in Python
 - 🎓 **Student** pursuing a Master's degree in Computer Science and Software Engineering 
 - 📚 **Currently learning**: C++ and C#
 - 🎯 **Unreal Engine 5** developer
@@ -14,7 +14,7 @@
 
 **Worked previously for:**
 
-- <a href="https://www.linkedin.com/company/visionairy"> Visionairy</a>: as a software developer tasked with converting their AI computer vision application, originally designed for Linux, into a Windows/Linux-compatible application. Mostly used Python and Powershell.
+- <a href="https://www.linkedin.com/company/visionairy"> Visionairy</a> (Nov 2025 - Apr 2026): as a software developer tasked with converting their AI computer vision application, originally designed for Linux, into a Windows/Linux-compatible application. Mostly used Python and Powershell.
 
 **Working on:**
 
@@ -28,6 +28,8 @@
 
 ## Tech Stack
 
+<p align="center"><b>Core skills</b></p>
+
 <table align="center">
 <tr>
     <td align="center" width="96">
@@ -39,13 +41,26 @@
         <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-        <br>C
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
         <br>Java
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
+        <br>PowerShell
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+        <br>SQLite
+    </td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
         <br>HTML5
@@ -55,34 +70,55 @@
         <br>CSS3
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br>PHP
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
-        <br>PowerShell
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" />
-        <br>Markdown
-    </td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
         <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
+        <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" />
+        <br>Unreal Engine
+    </td>
+</tr>
+</table>
+
+
+<p align="center"><b>Also used</b></p>
+
+<table align="center">
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+        <br>PHP
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+        <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+        <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+        <br>Vue.js
+    </td>
+    
+</tr>
+</table>
+
+<table align="center">
+<tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
@@ -92,82 +128,12 @@
         <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-        <br>SQLite
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="Matlab" />
-        <br>MATLAB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-        <br>Notion
-    </td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-        <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br>Vue.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-        <br>FastAPI
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-        <br>Flask
-    </td>
-</tr>
-</table>
-
-
-<table align="center">
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal Engine" />
-        <br>Unreal Engine
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
         <br>Unity
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot" />
-        <br>Godot
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=premiere" width="48" height="48" alt="Premiere Pro" />
-        <br>Premiere Pro
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
-        <br>Photoshop
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aftereffects" width="48" height="48" alt="After Effects" />
-        <br>After Effects
-    </td>
 </tr>
 </table>
+
 
 ## GitHub Statistics (Refreshed each day at 3:00 UTC+0)
 
