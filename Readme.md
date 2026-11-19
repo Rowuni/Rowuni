@@ -135,7 +135,7 @@
 </table>
 
 
-## GitHub Statistics (Refreshed each day)
+## GitHub Statistics (Refreshed every day)
 
 <div align="center">
 
